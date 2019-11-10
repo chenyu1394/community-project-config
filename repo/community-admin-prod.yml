@@ -1,6 +1,6 @@
 spring:
   application:
-    name: hello-admin-server
+    name: community-admin
 
 server:
   port: 8084
