@@ -7,7 +7,7 @@ server:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://localhost:8761/eureka/,http://localhost:8861/eureka/,http://localhost:8961/eureka/
+      defaultZone: http://192.168.43.175:8761/eureka/,http://192.168.43.175:8861/eureka/,http://192.168.43.175:8961/eureka/
 zuul:
   routes:
     api-a:

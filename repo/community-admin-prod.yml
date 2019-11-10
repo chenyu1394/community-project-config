@@ -16,4 +16,4 @@ management:
 eureka:
   client:
     serviceUrl:
-      deaultZone: http://localhost:8761/eureka/,http://localhost:8861/eureka/,http://localhost:8961/eureka/
+      deaultZone: http://192.168.43.175:8761/eureka/,http://192.168.43.175:8861/eureka/,http://192.168.43.175:8961/eureka/
